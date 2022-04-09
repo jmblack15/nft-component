@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL: ](https://github.com/jmblack15/Frontend-Mentor-nft-component)
-- [Live Site URL: ](https://jmblack15.github.io/Frontend-Mentor-nft-component/)
+- [Solution URL: ](https://github.com/jmblack15/nft-component)
+- [Live Site URL: ](https://jmblack15.github.io/nft-component/)
 
 ## My process
 
